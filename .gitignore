@@ -1,23 +1,13 @@
-# Python
+﻿node_modules/
+frontend/node_modules/
+backend/.venv/
 __pycache__/
 *.py[cod]
-*.venv/
-venv/
-.venv/
-
-# Node
-node_modules/
-dist/
-dist-ssr/
-
-# Local configuration and secrets
 .env
 .env.*
 !.env.example
-
-# Logs and local editor settings
-*.log
-.idea/
-.vscode/*
-!.vscode/extensions.json
+.venv/
+dist/
+build/
 .DS_Store
+Thumbs.db
